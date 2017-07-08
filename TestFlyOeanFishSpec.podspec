@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "TestSpec"
+  s.name         = "TestFlyOeanFishSpec"
   s.version      = "1.0"
   s.summary      = "create spec"
 
